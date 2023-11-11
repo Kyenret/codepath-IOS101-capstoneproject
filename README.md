@@ -104,7 +104,8 @@ MedZen is a medication management app designed to enhance health tracking and me
 
 ## Wireframes
 
-![Wireframe_capstone project](https://github.com/Kyenret/codepath-iOS101-capstoneproject/assets/136635964/6c9eb2a6-6c13-4fe1-be56-43d5d3b475cc)
+![Wireframe_MedZen_Capstone Project](https://github.com/Kyenret/codepath-iOS101-capstoneproject/assets/136635964/39e4db1c-84a9-44e1-ab75-09cbef5c7e9e)
+
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
