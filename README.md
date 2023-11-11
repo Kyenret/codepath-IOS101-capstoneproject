@@ -32,9 +32,8 @@ MedZen is a medication management app designed to enhance health tracking and me
 **Required Must-have Stories**
 
 * User can efficiently set up and organize medication list.
-* User can establish personalized medication schedules
-* User can receive timely reminders
-* User can activate emergency alerts for added safety.
+* User can establish personalized medication schedules.
+* User can receive timely reminders.
 * User can journal to document their health journey and track changes in their well-being as they follow their medication regimen.
 * User can manage and organize medical records, allergies, and other essential health information.
 * User can access informative content about medication such as their uses and potential side effects.
@@ -43,6 +42,8 @@ MedZen is a medication management app designed to enhance health tracking and me
 **Optional Nice-to-have Stories**
 
 * User can monitor diet to Keep a close eye on dietary habits, promoting a holistic approach to health management.
+* User has access to a comprehensive overview screen integrated into the navigation bar that provides a quick snapshot of the medications to be taken in the morning, afternoon, and evening.
+* User can activate emergency alerts for added safety.
 * Cameral integration to provide user with functionalities such as scanning medication barcodes or uploading images relevant to health journey. 
 
 ### 2. Screen Archetypes
@@ -102,6 +103,8 @@ MedZen is a medication management app designed to enhance health tracking and me
 * User can access, review, and edit, all saved information
 
 ## Wireframes
+
+![Wireframe_capstone project](https://github.com/Kyenret/codepath-iOS101-capstoneproject/assets/136635964/6c9eb2a6-6c13-4fe1-be56-43d5d3b475cc)
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
