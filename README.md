@@ -14,7 +14,6 @@ Original App Design Project - README Template
 
 ### Description
 
-[Description of your app]
 MedZen is a medication management app designed to enhance health tracking and medication maintenance.This app offers a range of features, allowing users to effortlessly set up and manage their medication lists, establish schedules with customizable reminders and emergency alerts, and maintain a personal health journal for a more refined understanding of their well-being throughout their health journey. The app not only prioritizes user experience but also enhances knowledge with educational content about prescribed medications. Utilizing an API, it dynamically collects and saves pertinent information, including usage details, potential side effects, and management tips of medications. Additionally, the app serves as a centralized hub for tracking medical records, allergies, diet and more. 
 
 ### App Evaluation
