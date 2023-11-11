@@ -138,9 +138,31 @@ MedZen is a medication management app designed to enhance health tracking and me
 
 ### Step 2: Breakdown into Sprints
 
-Sprint 1:
+**Sprint 1: App Conceptualization and Initial Design**
 
-- [x]
+- [x] Define app concept, functionalities, and requirements
+- [x] Create a comprehensive wireframe of the app and establish the project structure
+- [x] Formulate the app name, design logo, and craft a tagline
 
+**Sprint 2: Welcome and Navigation Refinement**
+
+- [ ] Develop a Welcome Screen, facilitating account creation and sign-in
+- [ ] Set up the Tab Bar Navigation for user interaction
+- [ ] Design and implement the Medication Screen for management of medication lists
+- [ ] Integrate Reminder Screen functionality
+- [ ] Develop the Journal Screen to allow users to document their health journey
+
+**Sprint 3: Account Management and Final Polish**
+
+- [ ] Implement the Account Screen, providing users with centralized access to review and edit saved information
+- [ ] Fine-tune the overall user interface and experience for a cohesive and visually appealing design
+- [ ] Conduct comprehensive testing to identify and address any bugs or issues
+- [ ] Prepare for Demo Day
+      
 
 ### Step 3: Define Weekly Goals
+
+- [ ] Week 8: Complete Sprint 1
+- [ ] Week 9: Complete Sprint 2
+- [ ] Week 10: Complete Sprint 3
+
