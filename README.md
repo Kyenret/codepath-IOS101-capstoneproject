@@ -125,3 +125,22 @@ MedZen is a medication management app designed to enhance health tracking and me
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Unit 8: Assignment 2
+
+### Step 1: Identify Main Features
+* Welcome Screen
+* Getting Started
+* Medication Screen
+* Reminders Screen
+* Journal Srceen
+* Account Screen
+
+### Step 2: Breakdown into Sprints
+
+Sprint 1:
+
+[ ]
+
+
+### Step 3: Define Weekly Goals
