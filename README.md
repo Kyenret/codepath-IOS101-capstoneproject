@@ -18,7 +18,6 @@ MedZen is a medication management app designed to enhance health tracking and me
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Health
 - **Mobile:** MedZen employs push notifications to deliver real-time medication reminders and alerts, ensuring patients stay well-informed about their medication schedules. The journaling feature empowers patients to document their health journey seamlessly, regardless of their location. This functionality enhances awareness, enabling users to take note of essential details that can be readily shared with their physician or healthcare provider for more effective communication.
 - **Story:** The inspiration of this app comes from my mother who is a diabetic patient. Witnessing her journey has fueled a commitment to simplify health management, especially for individuals who are dealing with persistent illnesses. The app is driven by the core objective of simplifying the intricacies of health management, positioning itself as a dedicated companion for those on regular medications or dealing with ongoing illnesses. The array of features, encompassing medication tracking, personalized journaling, and educational content, all converge towards a unified goal: empowering users to effortlessly and confidently manage their health.
