@@ -166,3 +166,18 @@ MedZen is a medication management app designed to enhance health tracking and me
 - [ ] Week 9: Complete Sprint 2
 - [ ] Week 10: Complete Sprint 3
 
+
+## Sprint 1: App Conceptualization and Initial Design
+
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/2e30596c5e3c4d5999776cf5fe24fae9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2e30596c5e3c4d5999776cf5fe24fae9-with-play.gif">
+    </a>
+  
+## Reflection
+
+Although I did not encounter any difficulties while working on the app, I did face some challenges when attempting to upload my work to the pre-existing repository from Part 1 of the Wordle Project. Ultimately, I had to create a new repository for this second part of the project.
+
+
