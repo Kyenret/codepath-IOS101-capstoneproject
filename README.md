@@ -178,6 +178,8 @@ MedZen is a medication management app designed to enhance health tracking and me
   
 ## Reflection
 
-Although I did not encounter any difficulties while working on the app, I did face some challenges when attempting to upload my work to the pre-existing repository from Part 1 of the Wordle Project. Ultimately, I had to create a new repository for this second part of the project.
+Embarking on this journey is a significant moment for me, marking my first venture into app development. As a Biomedical Engineering student with aspirations in smart healthcare and health technology, this capstone project is a pivotal opportunity to initiate my portfolio. The decision to create a health app presented challenges during the brainstorming phase, with the abundance of existing health related apps. Seeking inspiration, I turned to friends, asking: "What app do you wish existed, and what features would be invaluable to you?" Realizing the app I wanted to build already existed led me to a crucial choice – to infuse my app with a distinctive story.
 
+This app is profoundly personal, rooted in the experiences of my mother, a diabetic patient. Witnessing her challenges in managing her health journey fueled my determination to make it achievable and exceptionally simple. Additionally, my passion for contributing to groundbreaking advancements in healthcare, akin to companies like Apple, adds an extra layer of significance to this endeavor. The mix of excitement, nervousness, and determination that comes with this being my first app highlights the personal journey I'm about to start.
 
+Despite grappling with translating all my ideas into the app framework, especially intricate features like multiple screen navigations, I am hopeful that the envisioned app will come to life. This entire process, from brainstorming to setting essential goals, has been immensely helpful, and I eagerly anticipate bringing this project to fruition.
