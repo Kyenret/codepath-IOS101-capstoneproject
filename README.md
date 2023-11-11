@@ -140,7 +140,7 @@ MedZen is a medication management app designed to enhance health tracking and me
 
 Sprint 1:
 
-[ ]
+[x]
 
 
 ### Step 3: Define Weekly Goals
