@@ -193,7 +193,9 @@ Despite grappling with translating all my ideas into the app framework, especial
 ## Video Walkthrough
 
 <div>
- style="position: relative; padding-bottom: 215.5688622754491%; height: 0;"><iframe src="https://www.loom.com/embed/e4a0ffe9abb14c0fa472736dea998344?sid=83d31f34-b65d-4d1f-9786-f3ffd288ffcb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
- </a>
+    <a href="https://www.loom.com/share/e4a0ffe9abb14c0fa472736dea998344">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e4a0ffe9abb14c0fa472736dea998344-with-play.gif">
+    </a>
+
 
 ## Reflection
