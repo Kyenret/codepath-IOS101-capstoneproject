@@ -199,3 +199,23 @@ Despite grappling with translating all my ideas into the app framework, especial
 
 
 ## Reflection
+
+This week marked substantial progress in building my app, accompanied by a set of challenges that contributed to my learning journey. I successfully created the Create Account and Log In screens, established the tab bar navigation, and integrated features into the Reminders and Journal screens, achieving key milestones. Notably, I incorporated Firebase into the New Account and Log In screens, enhancing the overall functionality of the app.
+
+However, I faced challenges in setting up the Medications Screen due to the absence of a suitable API for fetching medication information when a user adds a medication. Additionally, I struggled with uncertainty regarding the implementation of a My Account screen to store relevant user information.
+
+Areas that require improvement have become apparent, such as enhancing the Journal Screen to retain saved entries upon app reload. I find myself questioning how to securely save login information and seamlessly connect the login/sign-up screen to the tab bar navigation screen.
+
+Several points for further exploration and refinement have surfaced:
+
+1. I want to explore ways to eliminate the "back" option after logging in or creating an account through segue implementation.
+2. I need to investigate methods for securely saving login information.
+3. I aim to enhance the reminder functionality to allow users to set recurring alarms successfully.
+4. I am encountering challenges with the non-functional app logo that need to be addressed.
+5. I want to integrate Firebase for the "forgot password" functionality.
+6. Acquiring a medication API to support the envisioned Medication Screen is a priority.
+7. I intend to explore and implement Firebase functionalities beyond basic login, such as Google Analytics.
+8. I recognize the need for a deeper understanding of table view delegate and table view data source for better implementation.
+9. I want to explore user defaults for saving reminders and journal entries.
+
+In reflection, this week has provided a clear picture of both achievements and areas that demand further attention. I am committed to continuous improvement in subsequent sprints, and these identified areas will guide my efforts for a smoother development process.
