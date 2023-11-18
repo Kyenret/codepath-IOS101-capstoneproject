@@ -218,4 +218,4 @@ Several points for further exploration and refinement have surfaced:
 8. I recognize the need for a deeper understanding of table view delegate and table view data source for better implementation.
 9. I want to explore user defaults for saving reminders and journal entries.
 
-In reflection, this week has provided a clear picture of both achievements and areas that demand further attention. I am committed to continuous improvement in subsequent sprints, and these identified areas will guide my efforts for a smoother development process.
+In reflection, this week has provided a clear picture of both achievements and areas that demand further attention. I am committed to continuous improvement of my app, even beyond this program and I will appreciate all the help that I can receive.
