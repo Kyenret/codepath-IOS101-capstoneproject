@@ -144,26 +144,29 @@ MedZen is a medication management app designed to enhance health tracking and me
 - [x] Create a comprehensive wireframe of the app and establish the project structure
 - [x] Formulate the app name, design logo, and craft a tagline
 
+
+Week of 17 November 2023
+
 **Sprint 2: Welcome and Navigation Refinement**
 
-- [ ] Develop a Welcome Screen, facilitating account creation and sign-in
-- [ ] Set up the Tab Bar Navigation for user interaction
+- [x] Develop a Welcome Screen, facilitating account creation and sign-in
+- [x] Set up the Tab Bar Navigation for user interaction
 - [ ] Design and implement the Medication Screen for management of medication lists
-- [ ] Integrate Reminder Screen functionality
-- [ ] Develop the Journal Screen to allow users to document their health journey
+- [x] Integrate Reminder Screen functionality
+- [x] Develop the Journal Screen to allow users to document their health journey
 
 **Sprint 3: Account Management and Final Polish**
 
 - [ ] Implement the Account Screen, providing users with centralized access to review and edit saved information
-- [ ] Fine-tune the overall user interface and experience for a cohesive and visually appealing design
-- [ ] Conduct comprehensive testing to identify and address any bugs or issues
-- [ ] Prepare for Demo Day
+- [x] Fine-tune the overall user interface and experience for a cohesive and visually appealing design
+- [x] Conduct comprehensive testing to identify and address any bugs or issues
+- [x] Prepare for Demo Day
       
 
 ### Step 3: Define Weekly Goals
 
-- [ ] Week 8: Complete Sprint 1
-- [ ] Week 9: Complete Sprint 2
+- [x] Week 8: Complete Sprint 1
+- [x] Week 9: Complete Sprint 2
 - [ ] Week 10: Complete Sprint 3
 
 
@@ -183,3 +186,12 @@ Embarking on this journey is a significant moment for me, marking my first ventu
 This app is profoundly personal, rooted in the experiences of my mother, a diabetic patient. Witnessing her challenges in managing her health journey fueled my determination to make it achievable and exceptionally simple. Additionally, my passion for contributing to groundbreaking advancements in healthcare, akin to companies like Apple, adds an extra layer of significance to this endeavor. The mix of excitement, nervousness, and determination that comes with this being my first app highlights the personal journey I'm about to start.
 
 Despite grappling with translating all my ideas into the app framework, especially intricate features like multiple screen navigations, I am hopeful that the envisioned app will come to life. This entire process, from brainstorming to setting essential goals, has been immensely helpful, and I eagerly anticipate bringing this project to fruition.
+
+
+## Sprints 2 and 3: App Conceptualization and Initial Design; Account Management and Final Polish
+
+## Video Walkthrough
+
+<div style="position: relative; padding-bottom: 215.5688622754491%; height: 0;"><iframe src="https://www.loom.com/embed/e4a0ffe9abb14c0fa472736dea998344?sid=b0af81ef-b215-4d39-9771-102ee6ef4eb8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+## Reflection
