@@ -219,3 +219,15 @@ Several points for further exploration and refinement have surfaced:
 9. I want to explore user defaults for saving reminders and journal entries.
 
 In reflection, this week has provided a clear picture of both achievements and areas that demand further attention. I am committed to continuous improvement of my app, even beyond this program and I will appreciate all the help that I can receive.
+
+
+## Week 10: Final Reflection
+
+<div>
+    <a href="https://www.loom.com/share/e4a0ffe9abb14c0fa472736dea998344">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e4a0ffe9abb14c0fa472736dea998344-with-play.gif">
+    </a>
+
+
+
+As we reach the conclusion of the course, I find myself filled with enthusiasm for the knowledge gained and the achievements gained. While I was not able to bring all the envisioned features to life in my app, this serves as a stepping stone for ongoing improvement. The journey of refining my app will persist, evolving alongside my expanding expertise in iOS development. The course has laid a solid foundation, and I am eager to further enhance my skills and see the app flourish as I continue to grow in this field.
