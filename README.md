@@ -108,14 +108,6 @@ MedZen is a medication management app designed to enhance health tracking and me
 
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
 ### Models
 
 [Add table of models]
