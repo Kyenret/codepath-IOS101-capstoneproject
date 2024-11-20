@@ -108,15 +108,6 @@ MedZen is a medication management app designed to enhance health tracking and me
 
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 ## Unit 8: Assignment 2
 
